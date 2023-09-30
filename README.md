@@ -16,8 +16,8 @@
 ## 🔗 Links
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jaypatel)
 [![github](https://img.shields.io/badge/github-333?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JayPatel1202)
-[![leetcode](https://img.shields.io/badge/leetcode-yellowgreen?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/StorageClasher)
-[![email](https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jaykumarpatel1202@gmail.com)
+[![leetcode](https://img.shields.io/badge/leetcode-yellowgreen?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/jaypatel12/)
+[![email](https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jaypatell.atwork@gmail.com)
 [![mobile](https://img.shields.io/badge/mobile-+91%20886%206551%20202-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+918866551202)
 
 ## 🛠 Skills
@@ -28,7 +28,7 @@
 - Soft Skills: Leadership, Conflict Resolution, Teamwork, Emotional Intelligence
 
 ## 💼 Experience
-- **Jr. Blockchain Intern at Gaura Web Technology** (Ahmedabad, India)
+- **Blockchain Developer at Gaura Web Technology** (Ahmedabad, India)
   - **Mundum NFT Marketplace**
     - Spearheaded Backend development and crafted smart contracts for Mumdum Marketplace, a simplified version akin to Opensea.
     - Built a vibrant NFT platform, managing transactions and collections, laying the groundwork for the success of Mumdum Marketplace.
